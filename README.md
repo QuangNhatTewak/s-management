@@ -1,1 +1,1 @@
-Based on PHP, JavaScript and Ajax for clients communication
+Based on PHP, JavaScript and AJAX for clients communication
